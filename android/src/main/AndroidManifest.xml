@@ -1,4 +1,0 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.native_file_util">
-    <application android:label="native_file_util" />
-</manifest>
